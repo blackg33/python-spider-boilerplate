@@ -12,8 +12,8 @@ This project contains a simple web spider written in Python. It uses `venv` for 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/webspider.git
-cd webspider
+git clone https://github.com/blackg33/python-spider-boilerplate.git
+cd python-spider-boilerplate
 ```
 
 2. Create a virtual environment
